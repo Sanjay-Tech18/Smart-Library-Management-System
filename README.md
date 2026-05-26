@@ -14,7 +14,6 @@ A Python-based **Library Management System** that allows users to issue and retu
 
 ---
 PREVIEW -
-<img width="388" height="297" alt="image" src="https://github.com/user-attachments/assets/956e1b1d-74f9-478e-b83a-5d6eba04212a" />
 <img width="421" height="441" alt="image" src="https://github.com/user-attachments/assets/bd376f58-d0c0-4ebb-aa04-019ca302e976" />
 
 
